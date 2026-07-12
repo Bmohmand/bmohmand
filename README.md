@@ -10,4 +10,5 @@ enterprise AI pipelines, and clinical research — so this profile is quieter
 than my commit history. Happy to talk about any of it.
 
 **Interests:** applied ML, agentic systems, robotics
+
 bmohmand@stanford.edu · [LinkedIn](https://linkedin.com/in/bahram-mohmand)
