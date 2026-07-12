@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Bahram 👋
 
-<!--
-**Bmohmand/bmohmand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS @ Stanford. I build ML/AI systems for high-stakes environments — currently
+interning at Palantir (Gotham), previously Lockheed Martin, with ongoing
+medical imaging research at Stanford's Center for Advanced Functional
+Neuroimaging.
 
-Here are some ideas to get you started:
+Most of my work lives in private and proprietary codebases — defense platforms,
+enterprise AI pipelines, and clinical research — so this profile is quieter
+than my commit history. Happy to talk about any of it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests:** applied ML, agentic systems, robotics
+📫 bmohmand@stanford.edu · [LinkedIn](https://linkedin.com/in/bahram-mohmand)
