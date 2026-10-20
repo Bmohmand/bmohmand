@@ -1,7 +1,7 @@
 # Hi, I'm Bahram 👋
 
-CS @ Stanford. I build ML/AI systems for high-stakes environments. Currently
-interning at Palantir (Gotham), previously Lockheed Martin, with ongoing
+CS @ Stanford. I build ML/AI systems for high-stakes environments. Previously 
+at Palantir and Lockheed Martin, with ongoing
 medical imaging research at Stanford's Center for Advanced Functional
 Neuroimaging.
 
